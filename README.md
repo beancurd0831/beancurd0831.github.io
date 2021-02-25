@@ -6,5 +6,5 @@
 ## 介紹我的興趣
 我喜歡打球 打遊戲 跟朋友一起出門散心
 
-! [APEX]https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKlfe81acrUztulXyCo_N69DUJaiJ7bop7YQ&usqp=CAU
+![APEX](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKlfe81acrUztulXyCo_N69DUJaiJ7bop7YQ&usqp=CAU
 
